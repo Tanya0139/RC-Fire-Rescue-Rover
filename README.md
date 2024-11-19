@@ -1,4 +1,4 @@
-![Banner](media/Banner.gif)
+![Banner](media/banner.gif)
 
 # 🚒 Smart RC Rescue Rover: Real-Time Environmental Monitoring Vehicle for Fire Emergency Operations
 
