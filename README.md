@@ -6,6 +6,13 @@
 
 The **Fire Rescue Assist Vehicle (FRAV)** is a remote-controlled robot aimed at enhancing safety and efficiency in fire rescue operations. Designed for hostile environments, FRAV collects real-time environmental data, providing situational awareness to responders. This system focuses on monitoring gas levels, temperature, and obstacles rather than fire suppression.
 
+## Gallery
+
+<p align="center">
+ <img src="media/1.png" alt="Image 1">
+   <img src="media/2.png" alt="Image 1">
+   <img src="media/3.png" alt="Image 1">
+</p>
 ---
 
 ## 🎯 Objectives
@@ -38,6 +45,10 @@ The **Fire Rescue Assist Vehicle (FRAV)** is a remote-controlled robot aimed at 
    - HC-05 Bluetooth Module.
    - WiFi Access Point via ESP32.
 - **Power Components**: Stable power supply for uninterrupted operation.
+<p align="center">
+  <img src="media/5.png" alt="Image 1">
+   <img src="media/6.png" alt="Image 1">
+</p>
 
 ---
 
@@ -60,7 +71,9 @@ The system consists of two main software components:
 2. **Motor Control**: Controlled via Arduino using Bluetooth commands.
 3. **Sensor Readings**: Handled by ESP32 for gas, temperature, and obstacles.
 4. **Real-time Transmission**: Sensor data is sent via WiFi to a web interface.
-
+<p align="center">
+  <img src="media/a.png" alt="Image 1">
+</p>
 ### Software Flow
 1. **Command Handling**:
    - Receive Bluetooth commands via HC-05.
@@ -68,7 +81,9 @@ The system consists of two main software components:
 2. **Data Monitoring**:
    - ESP32 processes and transmits sensor data.
    - Updates displayed on a user-friendly web interface.
-
+<p align="center">
+  <img src="media/b.png" alt="Image 1">
+</p>
 ---
 
 ## 🛠 Code and Configuration
@@ -120,7 +135,9 @@ The ESP32:
    - Displays updated data every second, ensuring reliable situational awareness.
 - **System Stability**:
    - Consistent WiFi and Bluetooth connectivity during testing.
-
+<p align="center">
+  <img src="media/7.png" alt="Image 1">
+</p>
 ---
 
 ## 🖼 Images and Outputs
