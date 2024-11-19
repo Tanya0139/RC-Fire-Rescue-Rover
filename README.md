@@ -7,9 +7,10 @@
 The **Fire Rescue Assist Vehicle (FRAV)** is a remote-controlled robot aimed at enhancing safety and efficiency in fire rescue operations. Designed for hostile environments, FRAV collects real-time environmental data, providing situational awareness to responders. This system focuses on monitoring gas levels, temperature, and obstacles rather than fire suppression.
 
 ## Gallery
-
 <p align="center">
  <img src="media/1.png" alt="Image 1">
+</p>
+<p align="center">
    <img src="media/2.png" alt="Image 1">
    <img src="media/3.png" alt="Image 1">
 </p>
@@ -74,6 +75,8 @@ The system consists of two main software components:
 <p align="center">
   <img src="media/a.png" alt="Image 1">
 </p>
+
+---
 ### Software Flow
 1. **Command Handling**:
    - Receive Bluetooth commands via HC-05.
