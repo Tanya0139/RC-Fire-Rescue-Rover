@@ -8,10 +8,10 @@ The **Fire Rescue Assist Vehicle (FRAV)** is a remote-controlled robot aimed at 
 
 ## Gallery
 <p align="center">
- <img src="media/a1.png" alt="Image 1">
+ <img src="media/a1.gif" alt="Image 1">
 </p>
 <p align="center">
- <img src="media/a1.png" alt="Image 1">
+ <img src="media/a2.gif" alt="Image 1">
 </p>
 <p align="center">
  <img src="media/1.png" alt="Image 1">
