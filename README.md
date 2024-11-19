@@ -1,23 +1,6 @@
+![Banner](images/Banner.gif)
+
 # 🚒 Smart RC Rescue Rover: Real-Time Environmental Monitoring Vehicle for Fire Emergency Operations
-
-## 📋 Table of Contents
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [⚙️ Hardware Overview](#hardware-overview)
-4. [💻 Software Description](#software-description)
-5. [📐 System Architecture](#system-architecture)
-   - [Hardware Flow](#hardware-flow)
-   - [Software Flow](#software-flow)
-6. [🛠 Code and Configuration](#code-and-configuration)
-   - [Arduino Code for Vehicle Control](#arduino-code-for-vehicle-control)
-   - [ESP32 Code for Gas and Temperature Detection](#esp32-code-for-gas-and-temperature-detection)
-7. [✨ Features](#features)
-8. [🧪 Testing Procedures](#testing-procedures)
-9. [📊 Results and Observations](#results-and-observations)
-10. [🖼 Images and Outputs](#images-and-outputs)
-11. [🔚 Conclusion](#conclusion)
-
----
 
 ## 🏁 Introduction
 
@@ -157,11 +140,6 @@ The Smart RC Rescue Rover successfully integrates real-time monitoring and remot
 # 🚀 Code and Snippets for Smart RC Rescue Rover
 
 This document provides a comprehensive explanation of the code used in the **Smart RC Rescue Rover** project. The primary functionalities include vehicle control, environmental monitoring, and real-time data transmission.
-
-## 📋 Table of Contents
-1. [Arduino Code for Vehicle Control](#arduino-code-for-vehicle-control)
-2. [ESP32 Code for Gas and Temperature Detection](#esp32-code-for-gas-and-temperature-detection)
-3. [Python GUI for Remote Control](#python-gui-for-remote-control)
 
 ---
 
